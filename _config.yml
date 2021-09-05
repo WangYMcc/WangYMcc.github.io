@@ -184,6 +184,6 @@ gitalk:
     owner: WangYMcc
     repo: blog-comments
     clientID: 3d9210b2bdd1458b2a69
-    clientSecret: 14a97919e6e0d560b70277f19e793c9bb28cf809
+    clientSecret: 2023b0407d142ed1a270b7353030c42a0bec4fea
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+#lazy_load_disqus : false
