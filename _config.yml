@@ -170,15 +170,15 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-#disqus:
-#    username: WangYMcc
+disqus:
+   username: WangYMcc
 # https://imsun.net/posts/gitment-introduction/
-#gitment:
-#    owner: WangYMcc
-#    repo: blog-comments
-#    oauth:
-#        client_id: ff99557e4cce1400187e
-#        client_secret: d6e050dc5ed22efa4f7ff04cd0c2a9cbb63e9e57
+gitment:
+   owner: WangYMcc
+   repo: blog-comments
+   oauth:
+       client_id: 3d9210b2bdd1458b2a69
+       client_secret: 2023b0407d142ed1a270b7353030c42a0bec4fea
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: WangYMcc
@@ -186,4 +186,4 @@ gitalk:
     clientID: 3d9210b2bdd1458b2a69
     clientSecret: 2023b0407d142ed1a270b7353030c42a0bec4fea
 # 在使用其它评论组件时可点击显示 Disqus
-#lazy_load_disqus : false
+lazy_load_disqus : false
